@@ -9,3 +9,7 @@ some description!
 Watch tutorial on Youtube 
 123
 123
+
+##Local Development
+
+1. Open index.html in your browser.
